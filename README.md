@@ -25,7 +25,7 @@ Based on the CROSS platform , the issuance and transaction mechanism of NFT  sho
 - Solidity code and relevant documentation
 - Script test
 ```
-This bounty reward is 300USDT
+This bounty reward is 300USD equivalent CVT
 
 ## Contributors:
 
